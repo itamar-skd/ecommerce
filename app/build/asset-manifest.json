@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a617e044.chunk.css",
+    "main.js": "/static/js/main.64afe7f6.chunk.js",
+    "main.js.map": "/static/js/main.64afe7f6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5cd54013.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5cd54013.js.map",
+    "static/css/2.535f3dd3.chunk.css": "/static/css/2.535f3dd3.chunk.css",
+    "static/js/2.2b418662.chunk.js": "/static/js/2.2b418662.chunk.js",
+    "static/js/2.2b418662.chunk.js.map": "/static/js/2.2b418662.chunk.js.map",
+    "static/js/3.40d613fe.chunk.js": "/static/js/3.40d613fe.chunk.js",
+    "static/js/3.40d613fe.chunk.js.map": "/static/js/3.40d613fe.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.535f3dd3.chunk.css.map": "/static/css/2.535f3dd3.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.2b418662.chunk.js.LICENSE.txt": "/static/js/2.2b418662.chunk.js.LICENSE.txt",
+    "static/media/Huawei.b92bc5c7.jpg": "/static/media/Huawei.b92bc5c7.jpg",
+    "static/media/cart.498b68fd.svg": "/static/media/cart.498b68fd.svg",
+    "static/media/iPhone.dddfb50f.png": "/static/media/iPhone.dddfb50f.png",
+    "static/media/samsung.70a79256.jpg": "/static/media/samsung.70a79256.jpg",
+    "static/media/wave.96238868.svg": "/static/media/wave.96238868.svg",
+    "static/media/xiaomi.2210a5ef.jpg": "/static/media/xiaomi.2210a5ef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cd54013.js",
+    "static/css/2.535f3dd3.chunk.css",
+    "static/js/2.2b418662.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.64afe7f6.chunk.js"
+  ]
+}
